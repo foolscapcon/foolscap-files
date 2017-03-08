@@ -1,3 +1,6 @@
+{{ site.baseurl }}/openspace-form-2017-friday.pdf
+{{ site.baseurl }}/openspace-form-2017-saturday.pdf
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/foolscapcon/foolscap-files/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
