@@ -9,4 +9,5 @@ if [[ ! $? -eq 0 ]]; then
         echo "$package already installed"
     fi
 fi
+echo "# Foolscap Files" > README.md
 ( cd files && md-file-tree >> ../README.md )
