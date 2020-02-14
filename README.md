@@ -1,12 +1,23 @@
 # Foolscap Files
-- __files__
-   - [Art Show Control Form.pdf](Art%20Show%20Control%20Form.pdf)
-   - [Art Show Sheet.pdf](Art%20Show%20Sheet.pdf)
-   - [Artist Waiver.pdf](Artist%20Waiver.pdf)
-   - [Foolscap 2019 Prog Grid Website.pdf](Foolscap%202019%20Prog%20Grid%20Website.pdf)
-   - [Foolscap 2019 Prog Grid with O\_S Website.pdf](Foolscap%202019%20Prog%20Grid%20with%20O_S%20Website.pdf)
-   - [line\-Foolscap\-poster\-800px\-straight.png](line-Foolscap-poster-800px-straight.png)
-   - [openspace\-form\-2017\-friday.pdf](openspace-form-2017-friday.pdf)
-   - [openspace\-form\-2017\-saturday.pdf](openspace-form-2017-saturday.pdf)
-   - [openspace\-form\-2018\-online.pdf](openspace-form-2018-online.pdf)
+- 📂 __foolscap\-files__
+   - 📄 [CNAME](CNAME)
+   - 📄 [Foolscap\-poster\-800px.png](Foolscap-poster-800px.png)
+   - 📄 [LICENSE](LICENSE)
+   - 📄 [README.md](README.md)
+   - 📄 [SiteMap.png](SiteMap.png)
+   - 📄 [\_config.yml](_config.yml)
+   - 📄 [build.sh](build.sh)
+   - 📂 __files__
+     - 📄 [Art Show Control Form.pdf](files/Art%20Show%20Control%20Form.pdf)
+     - 📄 [Art Show Sheet.pdf](files/Art%20Show%20Sheet.pdf)
+     - 📄 [Artist Waiver.pdf](files/Artist%20Waiver.pdf)
+     - 📄 [Foolscap 2019 Prog Grid Website.pdf](files/Foolscap%202019%20Prog%20Grid%20Website.pdf)
+     - 📄 [Foolscap 2019 Prog Grid with O\_S Website.pdf](files/Foolscap%202019%20Prog%20Grid%20with%20O_S%20Website.pdf)
+     - 📄 [line\-Foolscap\-poster\-800px\-straight.png](files/line-Foolscap-poster-800px-straight.png)
+     - 📄 [open\_space\_form\_\-\_2020\-fillable.pdf](files/open_space_form_-_2020-fillable.pdf)
+     - 📄 [openspace\-form\-2017\-friday.pdf](files/openspace-form-2017-friday.pdf)
+     - 📄 [openspace\-form\-2017\-saturday.pdf](files/openspace-form-2017-saturday.pdf)
+     - 📄 [openspace\-form\-2018\-online.pdf](files/openspace-form-2018-online.pdf)
+   - 📂 __podcast__
+     - 📄 [README.md](podcast/README.md)
 

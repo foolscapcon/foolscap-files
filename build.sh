@@ -10,4 +10,4 @@ if [[ ! $? -eq 0 ]]; then
     fi
 fi
 echo "# Foolscap Files" > README.md
-( cd files && md-file-tree >> ../README.md )
+( md-file-tree --emoji >> README.md )
